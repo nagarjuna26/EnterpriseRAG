@@ -1,0 +1,6 @@
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_EnterpriseStandardsRag.Tests
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\obj\Debug\net10.0\EnterpriseStandardsRag.Tests.csproj.AssemblyReference.cache
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\obj\Debug\net10.0\EnterpriseStandardsRag.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\obj\Debug\net10.0\EnterpriseStandardsRag.Tests.AssemblyInfoInputs.cache
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\obj\Debug\net10.0\EnterpriseStandardsRag.Tests.AssemblyInfo.cs
+C:\Users\NDurgam\source\repos\EnterpriseStandardsRag\tests\EnterpriseStandardsRag.Tests\obj\Debug\net10.0\EnterpriseStandardsRag.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5R9wbBNTjg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NDurgam\\source\\repos\\EnterpriseStandardsRag\\src\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NDurgam\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\microsoft.extensions.ai\\10.10.0\\microsoft.extensions.ai.10.10.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.10.0\\microsoft.extensions.ai.abstractions.10.10.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\microsoft.extensions.ai.openai\\10.10.0\\microsoft.extensions.ai.openai.10.10.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\openai\\2.13.0\\openai.2.13.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\system.clientmodel\\1.14.0\\system.clientmodel.1.14.0.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512",
+    "C:\\Users\\NDurgam\\.nuget\\packages\\system.numerics.tensors\\10.0.12\\system.numerics.tensors.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
